@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "Clustering Weather Stations in Canada",
+    "description": "This project utilizes the DBSCAN clustering algorithm to group weather stations in Canada based on their location and weather patterns.",
+    "author": "Daniel Moreno",
+    "author_profile": "www.linkedin.com/in/dmoreno-ai",
+    "url": "https://github.com/moreno32/Clustering-Weather-Stations-in-Canada.git",
+    "website": "https://www.danielmoreno.com",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
